@@ -1,13 +1,23 @@
 Usage
 =====
-Что просходит
-=====
-.. _installation:
 
-Installation
-------------
+.. _installation1:
+
+Installation1
+-------------
 
 To use Lumache, first install it using pip:
+
+Usage
+=====
+
+.. _installation2:
+
+Installation2
+-------------
+
+To use Lumache, first install it using pip:
+
 
 .. code-block:: console
 
